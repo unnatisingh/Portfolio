@@ -35,6 +35,9 @@
 
 <div style="text-align: center;"><IMG SRC="https://mail.google.com/mail/u/0/?ui=2&ik=6f6d5a8273&view=fimg&th=15cc268e55975f0b&attid=0.1&disp=inline&safe=1&attbid=ANGjdJ_GjQVlH1Z_uost7Wbzg5lk5xomwce_mMy4Uxx0Y0YwcgdaEMafU8LAeMLaXOyGLbkP1FT73P8qs9Eht9lJUx0oY8lgscjfu2ZET9V6xurNiZsJcNXyKvBRlao&ats=1497910277619&rm=15cc268e55975f0b&zw&sz=w1366-h662" ALT="image"></div>
 
+<h3 style="color:RebeccaPurple;font-size:120%;font-family:'Courier New'"> Day 7 reflection at Girls Who Code </h3>
+<p style="text-align: center; color:Crimson; font-size:75%"> 1. Based on what I've learned so far, some similarities between python and scratch are that they both use loops and variables. Some differences are that python requires specific and exact coding and operations in order to function.
+2. When I coded in python today, it felt slightly uncomfortable given that I was an amateur and the language was complicated compared to what I had seen before. However, I liked that I was challenging myself. </p>
 </body>
 </html>
 
