@@ -47,14 +47,25 @@
   
 <p style="text-align: center; color:Crimson; font-size:75%">If you dislike the bunny, then click on it to change him.</p>
 
-<button onclick="document.getElementById('myImage').src='http://nobacks.com/wp-content/uploads/2014/11/Rabbit-27-250x500.png'">
+<img onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="https://s-media-cache-ak0.pinimg.com/236x/4d/29/78/4d2978c55943cdd946039e4b33d45b2e.jpg" alt="Smiley" width="250" height="141.5">
 
-<img id="myImage" src="http://nobacks.com/wp-content/uploads/2014/11/Rabbit-27-250x500.png" style="width:100px">
+<p>Hover over the image for doggy to get bigger!</p>
+
+
+<script>
+function bigImg(x) {
+    x.style.height = "283px";
+    x.style.width = "500px";
+}
+
+function normalImg(x) {
+    x.style.height = "141.5px";
+    x.style.width = "250px";
+}
+</script>
 
 <button onclick="document.getElementById('demo').innerHTML = Date()">What is the time?</button>
-
 <p id="demo"></p>
-
 <h2 id="myH"></h2>
 <p id="myP"></p>
   </body>
