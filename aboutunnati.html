@@ -66,6 +66,26 @@ function normalImg(x) {
 <p id="demo"></p>
 <h2 id="myH"></h2>
 <p id="myP"></p> -->
+  
+ <img id="myImage" onclick="changeImage()" src="pic_bulboff.gif" width="100" height="180">
+
+<p>Click the light bulb to turn on/off the light.</p>
+
+
+<img id="myImage" onclick="changeImage()" src="http://www.stickpng.com/assets/images/580b585b2edbce24c47b26e6.png" width="100" height="180">
+
+<p>Change between whale and shroom!</p>
+
+<script>
+function changeImage() {
+    var image = document.getElementById('myImage');
+    if (image.src.match("http://oceanviewer.org/static/img/spp/Delphinapterus_leucas.png")) {
+        image.src = "http://www.stickpng.com/assets/images/580b585b2edbce24c47b26e6.png";
+    } else {
+        image.src = "http://oceanviewer.org/static/img/spp/Delphinapterus_leucas.png";
+    }
+}
+</script>
   </body>
 </html>
 
