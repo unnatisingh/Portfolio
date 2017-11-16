@@ -16,8 +16,7 @@
 <div style="text-align: center;"><IMG SRC="https://mail.google.com/mail/u/0/?ui=2&ik=6f6d5a8273&view=fimg&th=15cc254b57b6ffbf&attid=0.1&disp=inline&safe=1&attbid=ANGjdJ9CWlvO48_Bt7MLCEwTRL-3AvkWaciGgmWmV51TP1MTVsiP-qa9abtELGa_4oWrPrxeoa4jpayskTSWK-DY6I8Vr_IGuUy9yPYESTorTmg1ugcABJ8CdiDQADs&ats=1497908952522&rm=15cc254b57b6ffbf&zw&sz=w1366-h662" ALT="image"></div>
 <p style="text-align: center; color:Crimson; font-size:75%"> Here is a picture from me at the Disney store in the mall holding a Stitch Tsum Tsum. One day, maybe I can work at Disney. </p>
 
-<h3 style="color:RebeccaPurple;font-size:120%;font-family:'Courier New'">A Short Bio</h3>
-<p style="color:Crimson"> I am 15 years old and I go to Saint Francis High School. Next year, I will be a junior. To be honest, I don't really know what I'm doing with my life. Also, I really want a doggo. </p>
+
 
 <div style="text-align: center;"><IMG  HEIGHT="20%" WIDTH="30%"SRC="https://mail.google.com/mail/u/0/?ui=2&ik=6f6d5a8273&view=fimg&th=15cc27808fb69c19&attid=0.1&disp=inline&safe=1&attbid=ANGjdJ8t607XOUA6Eq6W40iI_8gVDvsTVlKwOOqyTKoXAbKxQR2ul1ktGyH1hdMDSeo1qFid93wyolIjI5ptx-lBPfRTrn7Cpen2Eo-ItARwCrm8cqG-jR6z_etnl6E&ats=1497911269557&rm=15cc27808fb69c19&zw&sz=w1366-h662" ALT="image"></div>
 <p style="text-align: center; color:Crimson; font-size:75%"> A heart I drew made of spinach for my school's newspaper. </p>
